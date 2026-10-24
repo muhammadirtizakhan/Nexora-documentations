@@ -1,8 +1,8 @@
 <div align="center">
 
-# Nexora Digital Solutions
+# Nexora Solvex
 
-<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Logo" width="200"/>
+<img src="https://res.cloudinary.com/djaonuvzx/image/upload/v1790244415/ChatGPT_Image_Sep_24_2026_03_06_36_PM_qgkrhw.png" alt="Nexora Solvex Logo" width="200"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 **We don't just build websites — we build complete digital systems.**
 
-Nexora is a modern AI-focused startup based in Karachi, Pakistan, dedicated to transforming local businesses through scalable digital infrastructures, intelligent chatbot systems, and AI-assisted automation workflows.
+Nexora Solvex is a modern AI-focused startup based in Karachi, Pakistan, dedicated to transforming local businesses through scalable digital infrastructures, intelligent chatbot systems, and AI-assisted automation workflows.
 
 We combine frontend engineering, backend development, AI integrations, dashboard systems, and reusable chatbot components into one practical and scalable ecosystem — designed for businesses that need real solutions, not templates.
 
@@ -30,14 +30,14 @@ Our mission is simple — modernize local businesses, simplify AI adoption, and 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nexoradevx@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexoradevx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nexorasolvex@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nexorasolvex@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_315_1196495-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923151196495)
 [![Website](https://img.shields.io/badge/Website-nexora.vercel.app-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora.vercel.app)
 [![Careers](https://img.shields.io/badge/Careers-Join_The_Team-f59e0b?style=for-the-badge&logoColor=white)](https://nexora-job-portal.vercel.app)
 
 </div>
 
-<img src="https://blog.ipleaders.in/wp-content/uploads/2016/08/startup-business-concept.jpg" alt="Nexora Banner" width="800"/>
+<img src="https://blog.ipleaders.in/wp-content/uploads/2016/08/startup-business-concept.jpg" alt="Nexora Solvex Banner" width="800"/>
 
 </div>
 
@@ -127,7 +127,7 @@ Modular chatbot UI components and frontend ecosystems designed for rapid integra
 
 <br/>
 
-<sub>© 2026 Nexora Technologies · Karachi, Pakistan 🇵🇰</sub>
+<sub>© 2026 Nexora Solvex · Karachi, Pakistan 🇵🇰</sub>
 
 <sub>Building Practical AI-Powered Digital Systems Through Scalable Engineering & Modern Automation</sub>
 
